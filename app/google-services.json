@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "274831064274",
+    "firebase_url": "https://univhub-c90e7.firebaseio.com",
+    "project_id": "univhub-c90e7",
+    "storage_bucket": "univhub-c90e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274831064274:android:d45bc844a6407199",
+        "android_client_info": {
+          "package_name": "com.example.anuj.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274831064274-rcp6jqdu5adi6c0kec82m59uu70v2647.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGo6vRzfTj3SxKZOC9E5UDPUX-FQ1XLmU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
