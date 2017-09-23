@@ -31,7 +31,8 @@
             </intent-filter>
         </service>
 
-        <activity android:name=".notiactivity"></activity>
+        <activity android:name=".notiactivity" />
+        <activity android:name=".process"></activity>
     </application>
 
 </manifest>

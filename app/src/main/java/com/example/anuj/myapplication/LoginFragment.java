@@ -11,11 +11,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-
-/**
- * Created by anuj on 9/21/17.
- */
-
 public class LoginFragment extends Fragment implements View.OnClickListener{
     @Nullable
     @Override
